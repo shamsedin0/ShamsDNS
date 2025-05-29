@@ -14,4 +14,4 @@
   <script src="script.js"></script>
 </body>
 </html>
-https://shamsdns.github.io/shamsdns/
+🔗 https://shamsDNS.github.io/shamsDNS/
